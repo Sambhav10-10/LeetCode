@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sambhav10-10/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sambhav10-10/LeetCode/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Sambhav10-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/Sambhav10-10/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sambhav10-10/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sambhav10-10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sambhav10-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sambhav10-10/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sambhav10-10/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Sambhav10-10/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sambhav10-10/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
