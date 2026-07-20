@@ -5,31 +5,25 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        while(k--)
+        int total = m * n;
+
+        vector<vector<int>> ans(m, vector<int>(n));
+
+        for(int i = 0; i < m; i++)
         {
-            vector<vector<int>> temp(m, vector<int>(n));
-
-            for(int i = 0; i < m; i++)
+            for(int j = 0; j < n; j++)
             {
-                for(int j = 0; j < n; j++)
-                {
-                    if(j != n - 1)
-                    {
-                        temp[i][j + 1] = grid[i][j];
-                    }
-                    else
-                    {
-                        if(i != m - 1)
-                            temp[i + 1][0] = grid[i][j];
-                        else
-                            temp[0][0] = grid[i][j];
-                    }
-                }
-            }
+                int oldIndex = i * n + j;
 
-            grid = temp;
+                int newIndex = (oldIndex + k) % total;
+
+                int newRow = newIndex / n;
+                int newCol = newIndex % n;
+
+                ans[newRow][newCol] = grid[i][j];
+            }
         }
 
-        return grid;
+        return ans;
     }
 };
