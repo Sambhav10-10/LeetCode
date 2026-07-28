@@ -1,31 +1,29 @@
 class Solution {
 public:
-    int leftRec(int i, vector<int>& nums, vector<int>& dp) {
-        if (i == 0) return 1;
+    void leftRec(int i, int prod, vector<int>& nums, vector<int>& left) {
+        if (i == nums.size()) return;
 
-        if (dp[i] != -1) return dp[i];
-
-        return dp[i] = nums[i - 1] * leftRec(i - 1, nums, dp);
+        left[i] = prod;
+        leftRec(i + 1, prod * nums[i], nums, left);
     }
 
-    int rightRec(int i, vector<int>& nums, vector<int>& dp) {
-        int n = nums.size();
+    void rightRec(int i, int prod, vector<int>& nums, vector<int>& right) {
+        if (i < 0) return;
 
-        if (i == n - 1) return 1;
-
-        if (dp[i] != -1) return dp[i];
-
-        return dp[i] = nums[i + 1] * rightRec(i + 1, nums, dp);
+        right[i] = prod;
+        rightRec(i - 1, prod * nums[i], nums, right);
     }
 
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> left(n, -1), right(n, -1), ans(n);
+        vector<int> left(n), right(n), ans(n);
 
-        for (int i = 0; i < n; i++) {
-            ans[i] = leftRec(i, nums, left) * rightRec(i, nums, right);
-        }
+        leftRec(0, 1, nums, left);
+        rightRec(n - 1, 1, nums, right);
+
+        for (int i = 0; i < n; i++)
+            ans[i] = left[i] * right[i];
 
         return ans;
     }
