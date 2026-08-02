@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Sambhav10-10/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Sambhav10-10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sambhav10-10/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sambhav10-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sambhav10-10/LeetCode/tree/master/0056-merge-intervals) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sambhav10-10/LeetCode/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/Sambhav10-10/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sambhav10-10/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sambhav10-10/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Sambhav10-10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sambhav10-10/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sambhav10-10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav10-10/LeetCode/tree/master/0217-contains-duplicate) |
