@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sambhav10-10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sambhav10-10/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sambhav10-10/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sambhav10-10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav10-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sambhav10-10/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sambhav10-10/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sambhav10-10/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sambhav10-10/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sambhav10-10/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sambhav10-10/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sambhav10-10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav10-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sambhav10-10/LeetCode/tree/master/0242-valid-anagram) |
