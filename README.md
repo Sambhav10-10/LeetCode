@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sambhav10-10/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sambhav10-10/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav10-10/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sambhav10-10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sambhav10-10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sambhav10-10/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav10-10/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sambhav10-10/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sambhav10-10/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sambhav10-10/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sambhav10-10/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sambhav10-10/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sambhav10-10/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav10-10/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sambhav10-10/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sambhav10-10/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
