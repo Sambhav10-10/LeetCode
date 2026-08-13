@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sambhav10-10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Sambhav10-10/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Sambhav10-10/LeetCode/tree/master/0036-valid-sudoku) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sambhav10-10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sambhav10-10/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Sambhav10-10/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sambhav10-10/LeetCode/tree/master/0075-sort-colors) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sambhav10-10/LeetCode/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sambhav10-10/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sambhav10-10/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
