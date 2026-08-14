@@ -418,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sambhav10-10/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sambhav10-10/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
