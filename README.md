@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Sambhav10-10/LeetCode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Sambhav10-10/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Sambhav10-10/LeetCode/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/Sambhav10-10/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/Sambhav10-10/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Sambhav10-10/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Sambhav10-10/LeetCode/tree/master/1683-invalid-tweets) |
