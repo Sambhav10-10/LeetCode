@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sambhav10-10/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Sambhav10-10/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambhav10-10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Sambhav10-10/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sambhav10-10/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sambhav10-10/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sambhav10-10/LeetCode/tree/master/1406-stone-game-iii) |
@@ -568,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sambhav10-10/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sambhav10-10/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
