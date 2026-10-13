@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sambhav10-10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sambhav10-10/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sambhav10-10/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sambhav10-10/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sambhav10-10/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sambhav10-10/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sambhav10-10/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sambhav10-10/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sambhav10-10/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sambhav10-10/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sambhav10-10/LeetCode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Sambhav10-10/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Sambhav10-10/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sambhav10-10/LeetCode/tree/master/0877-stone-game) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sambhav10-10/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sambhav10-10/LeetCode/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Sambhav10-10/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Sambhav10-10/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Sambhav10-10/LeetCode/tree/master/0860-lemonade-change) |
